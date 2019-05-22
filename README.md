@@ -11,8 +11,10 @@
 **Ejemplo**.
 
   Durante un ensamble, los reads apilados formaron 7 diferentes cóngitos: con_1 = 100kb, con_2=70 kb, con_3= 60 kb (…) con_7=30 kb, formando una representación genómica de 400 kb en total.  El 50% de dicha representación es de 200%. Considerando el conjunto de cóntigos más grandes, el de menor tamaño es el cóntigo cont_3 = 60 kb (fig. 1)
-Cóntigos ordenados de acuerdo a su longitud.
-Calculo de la métrica N50 usando el set de cóntigos ordenados   IMAGEN
+
+
+![n50](n50.png)
+
 
 
 **Lee la documentación de stacks e ipyrad y los artículos mencionados en clase para la estandarización de parámetros. Escoge uno de los dos programas y discute ¿cuáles son los parámetros más sensibles, con qué estrategia los optimizarías y en qué rango de valores los variarías? Haz un reporte en markdown que incluya Introducción, Discusión y un ejemplo de scripts de los pasos de la pipeline donde variarías los parámetros. Guarda el reporte en tu su repositorio e indica el link en el espacio de abajo.**
